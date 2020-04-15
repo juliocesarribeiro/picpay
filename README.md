@@ -1,2 +1,2 @@
-# picpay
+# PicPay - Clone
 Projeto de teste
