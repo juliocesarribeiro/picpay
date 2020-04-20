@@ -18,12 +18,6 @@ const icons = {
         lib: AntDesign,
         name: 'creditcard'
     },
-    /*
-    Pay: {
-        lib: AntDesign,
-        name: 'home'
-    },
-    */
     Notifications: {
         lib: Ionicons,
         name: 'ios-notifications-outline'
