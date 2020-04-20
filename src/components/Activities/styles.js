@@ -73,7 +73,6 @@ margin: 0 10px;
 export const Date = styled.Text`
 color: #fff;
 margin-left: 5px;
-
 `;
 
 export const Actions = styled.View`
@@ -90,4 +89,3 @@ color: #fff;
 font-size: 14px;
 margin-left: 5px;
 `;
-

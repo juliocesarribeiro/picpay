@@ -1,12 +1,12 @@
 import styled from 'styled-components/native';
 
 export const Container = styled.ScrollView.attrs(() =>({
-    horizontal:true,
-    showsHorizontalScrollIndicator: false,
-    contentContainerStyle: {
-        paddingLeft: 16,
-    },
-}))`
+  horizontal:true,
+  showsHorizontalScrollIndicator: false,
+  contentContainerStyle: {
+    paddingLeft: 16,
+  },
+  }))`
 margin-top: 25px;
 `;
 
@@ -28,5 +28,4 @@ font-weight: bold;
 
 export const Img = styled.Image`
 align-self: center;
-
 `;
